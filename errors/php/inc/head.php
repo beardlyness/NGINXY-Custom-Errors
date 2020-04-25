@@ -64,7 +64,6 @@
            }
 
            p {
-               line-height: 20px;
                position: relative;
                border-radius: 5px;
                font-size: 24px;
